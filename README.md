@@ -59,4 +59,4 @@ pnpm add comsvr-filepath
 ```
 
 ## Maintainers
-[@elias](https://github.com/eliassama/comsvr-filepath)
+[@CocytusElias](https://github.com/CocytusElias)
